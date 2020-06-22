@@ -2,7 +2,7 @@
 <p  align="center">
 
 <img src="https://github.com/s7Thiago/Flutter-EarthQuakeApp/blob/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png">
-<h2 align="center">EarthQuake App</h2>
+<h2 align="center">Shared Preferences Example</h2>
 
 <p align="center">A simple app showing how to store small data to support an application using the <a href="https://pub.dev/packages/shared_preferences#-installing-tab-">shared_preferences lib</a>
 </p>
